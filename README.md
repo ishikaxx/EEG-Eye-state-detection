@@ -9,7 +9,9 @@ The project follows a complete machine learning workflow, including data preproc
 ---
 ### Project Poster
 
-[📄 View the EEG Eye State Classification Poster](./EEG_Eye_State_Poster.pdf)
+### Project Poster
+
+![EEG Eye State Classification Poster](./EEG_Poster.png)
 
 # Dataset
 
