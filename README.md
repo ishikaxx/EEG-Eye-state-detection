@@ -9,10 +9,8 @@ The project follows a complete machine learning workflow, including data preproc
 ---
 ### Project Poster
 
-### Project Poster
 
-![EEG Eye State Classification Poster](./EEG_Poster.png)
-
+![EEG Poster](./EEG_Poster.png)
 # Dataset
 
 The dataset consists of EEG recordings collected from multiple electrodes positioned on the scalp.
