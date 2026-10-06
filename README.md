@@ -18,6 +18,7 @@ Each observation represents a short EEG recording described by numerical signal 
 * **1** – Eyes Closed
 
 ---
+'/Users/ishika/Documents/AI for DD/AI for DD Poster Final.pdf'
 
 # Project Pipeline
 
