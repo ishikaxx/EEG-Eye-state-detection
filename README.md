@@ -7,6 +7,9 @@ This project develops a machine learning pipeline for **EEG Eye State Classifica
 The project follows a complete machine learning workflow, including data preprocessing, feature extraction, model training, hyperparameter optimization, and performance evaluation.
 
 ---
+### Project Poster
+
+[📄 View the EEG Eye State Classification Poster](./EEG_Eye_State_Poster.pdf)
 
 # Dataset
 
@@ -18,7 +21,7 @@ Each observation represents a short EEG recording described by numerical signal 
 * **1** – Eyes Closed
 
 ---
-'/Users/ishika/Documents/AI for DD/AI for DD Poster Final.pdf'
+
 
 # Project Pipeline
 
